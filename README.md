@@ -10,7 +10,7 @@
 # PowerBI
 
 ### [Telco Customer Churn Analysis ]() 
-<img align="right" width="480" src=" "/>
+<img align="right" width="480" src="https://github.com/user-attachments/assets/49e85f35-65cb-43f6-96f3-1efa3afe6352"/>
 The Telco Customer Churn Dashboard is a comprehensive analytical solution that offers a holistic view of customer dynamics.
 
 </p>
