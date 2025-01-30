@@ -9,23 +9,27 @@
  
 # PowerBI
 
-### [Telco Customer Churn Analysis ]() 
-<img align="right" width="480" src="https://github.com/user-attachments/assets/be8d3249-d989-4cf3-8a78-f8eb13943ede"/>
-The Telco Customer Churn Dashboard is a comprehensive analytical solution that offers a holistic view of customer dynamics.
+### [Telco - Customer Churn Analysis ]() 
+<img align="right" width="450" src="https://github.com/user-attachments/assets/be8d3249-d989-4cf3-8a78-f8eb13943ede"/>
+
+> Dashboard </br>
 
 </p>
-Actionable insights on <b>churn rates</b>, demographics, contract and service details, 
-and detailed analyses on churn reasons and <b>revenue trends.</b> 
+This dashboard provides a comprehensive analysis of customer retention</br>
+and churn at Telco Communications, uncovering key drivers such as 
+demographics, service usage, contract types, and revenue impact.
 </p>
-Which  enables businesses to make informed decisions to mitigate churn and enhance <b>customer satisfaction.</b>
+By identifying churn patterns and underlying causes, this analysis helps</br>
+Telco take proactive steps to enhance customer loyalty and reduce turnover.
 </br> 
 </p>
 
-> Dashboard </br>
+
    
 </br>
 </br>
-
+</br>
+</br>
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,15 +37,18 @@ Which  enables businesses to make informed decisions to mitigate churn and enhan
 
 # Tableau
 
-### [AWS Sales Analysis]() 
-<img align="right" width="480" height="300" src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png" />
-The Dashboard offers a dynamic and comprehensive analysis of sales, profitability, units sold, and sales versus margin trends. 
-</p>
-Designed to empower data-driven decision-making by providing insights into various aspects of sales performance. Through interactive visualizations, users can track units sold, assess profitability, and analyze trends to optimize overall sales strategies and financial outcomes.
-
-</br> </br>
+### [AWS - SaaS Sales Analysis]() 
+<img align="right" width="450" src="https://github.com/user-attachments/assets/7445e2d6-c519-4256-a0a1-2a0049fda8f1" />
 
 > Dashboard </br>
+
+This dashboard delivers actionable insights into revenue performance, customer
+value, and profitability by analyzing YoY sales growth, top regions, industries, and key customers.  
+</p>
+Insights empower AWS leadership to refine sales strategies, maximize profitability,
+and focus on high-value opportunities.
+
+</br> </br>
 
      
 </br>
