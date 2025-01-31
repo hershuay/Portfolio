@@ -2,7 +2,7 @@
 
 <h2 align="center">  
 
- [PowerBI](#powerbi) &nbsp;  |  &nbsp; [Tableau](#tableau) &nbsp; | &nbsp;  [SQL](#sql) &nbsp; 
+ [PowerBI](#powerbi) &nbsp;  |  &nbsp; [Tableau](#tableau) &nbsp;
 
 
  </br>
