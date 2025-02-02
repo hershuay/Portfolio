@@ -9,7 +9,7 @@
  
 # PowerBI
 
-### [Telco - Customer Churn Analysis ]() 
+### [Telco - Customer Churn Analysis ](https://github.com/hershuay/Telco-Churn-Analysis) 
 <img align="right" width="450" src="https://github.com/user-attachments/assets/be8d3249-d989-4cf3-8a78-f8eb13943ede"/>
 
 > Dashboard </br>
