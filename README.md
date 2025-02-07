@@ -15,7 +15,7 @@
 > Dashboard </br>
 
 </p>
-This dashboard provides a comprehensive analysis of customer retention</br>
+This dashboard provides a comprehensive analysis of customer retention
 and churn at Telco Communications, uncovering key drivers such as 
 demographics, service usage, contract types, and revenue impact.
 </p>
